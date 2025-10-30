@@ -8,4 +8,6 @@ flask
 nltk
 fastmcp
 fastapi
-git
+fastapi[standard]
+requests
+uvicorn 
